@@ -1,1 +1,1034 @@
-Перший рядок.
+xxdiff-scripts/noble-updates 1:5.1+git20220924+dfsg-1ubuntu0.24.04.1 all
+xxdiff-scripts/noble 1:5.1+git20220924+dfsg-1build3 all
+
+xxdiff/noble-updates 1:5.1+git20220924+dfsg-1ubuntu0.24.04.1 amd64
+xxdiff/noble 1:5.1+git20220924+dfsg-1build3 amd64
+
+xxhash/noble 0.8.2-2build1 amd64
+
+xxkb/noble 1.11.1-2build2 amd64
+
+xye-data/noble 0.12.2+dfsg-12 all
+
+xye/noble 0.12.2+dfsg-12 amd64
+
+xygrib-maps/noble 1.2.6.1-3build3 all
+
+xygrib/noble 1.2.6.1-3build3 amd64
+
+xymon-client/noble-updates 4.3.30-2ubuntu0.1 amd64
+xymon-client/noble 4.3.30-2build3 amd64
+
+xymon/noble-updates 4.3.30-2ubuntu0.1 amd64
+xymon/noble 4.3.30-2build3 amd64
+
+xymonq/noble 0.8-1 all
+
+xyscan/noble 4.64-2build3 amd64
+
+xz-utils/noble-updates,noble-security 5.6.1+really5.4.5-1ubuntu0.2 amd64 [upgradable from: 5.6.1+really5.4.5-1build0.1]
+xz-utils/now 5.6.1+really5.4.5-1build0.1 amd64 [installed,upgradable to: 5.6.1+really5.4.5-1ubuntu0.2]
+xz-utils/noble 5.6.1+really5.4.5-1 amd64
+
+xzdec/noble-updates,noble-security 5.6.1+really5.4.5-1ubuntu0.2 amd64
+xzdec/noble 5.6.1+really5.4.5-1 amd64
+
+xzgv/noble 0.9.2-2build3 amd64
+
+xzip/noble 1:1.8.2-4build1 amd64
+
+xzoom/noble 0.3-27 amd64
+
+yabar/noble 0.4.0-1.1build2 amd64
+
+yabasic/noble 1:2.90.3-1 amd64
+
+yabause-common/noble 0.9.15-3build2 all
+
+yabause-qt/noble 0.9.15-3build2 amd64
+
+yabause/noble 0.9.15-3build2 all
+
+yacas-doc/noble 1.3.6-2.3 all
+
+yacas/noble 1.3.6-2.3 amd64
+
+yacpi/noble 3.0.1-2 amd64
+
+yad/noble 0.40.0-1build3 amd64
+
+yadifa/noble 2.6.5-1build2 amd64
+
+yadm/noble 3.2.2-1 all
+
+yaegi/noble 0.15.1-2 amd64
+
+yafc/noble 1.3.7-5build2 amd64
+
+yagf/noble 0.9.5+repack1-1build2 amd64
+
+yaggo/noble 1.5.11-1 all
+
+yagiuda/noble 1.19-11 amd64
+
+yagv/noble 0.4~20171211.r234ef16+dfsg-2 all
+
+yaha/noble 0.1.83-3 amd64
+
+yajl-tools/noble 2.1.0-5build1 amd64
+
+yaku-ns/noble 0.2-3 amd64
+
+yakuake/noble 23.08.5-0ubuntu3 amd64
+
+yale/noble 5.0.95-3 all
+
+yamagi-quake2-core/noble 8.30+dfsg-1 amd64
+
+yamagi-quake2/noble 8.30+dfsg-1 amd64
+
+yambar/noble 1.10.0-1build2 amd64
+
+yamdi/noble 1.4-3 amd64
+
+yamllint/noble 1.33.0-1 all
+
+yample/noble 0.30-5 all
+
+yanagiba/noble 1.0.0-5 all
+
+yangcli/noble 2.13-2.1build2 amd64
+
+yangdump/noble 2.13-2.1build2 amd64
+
+yank/noble 1.3.0-1 amd64
+
+yanosim/noble 0.1-5 amd64
+
+yapet/noble 2.6-1ubuntu2 amd64
+
+yapf3/noble 0.33.0-1 all
+
+yapps2/noble 2.2.1-3.2 all
+
+yapra/noble 0.1.2-7.3 all
+
+yara-doc/noble 4.5.0-1build2 all
+
+yara/noble 4.5.0-1build2 amd64
+
+yard-doc/noble 0.9.36-1 all
+
+yard/noble 0.9.36-1 all
+
+yaret/noble 2.1.0-5.3 all
+
+yarnpkg/noble 1.22.19+~cs24.27.18-4 all
+
+yarsync/noble 0.2.1-2 all
+
+yaru-cinnamon-theme-gtk/noble 24.04.3 all
+
+yaru-cinnamon-theme-icon/noble 24.04.3 all
+
+yaru-theme-gnome-shell/noble 24.04.2-0ubuntu1 all
+
+yaru-theme-gtk/noble 24.04.2-0ubuntu1 all
+
+yaru-theme-icon/noble 24.04.2-0ubuntu1 all
+
+yaru-theme-sound/noble 24.04.2-0ubuntu1 all
+
+yaru-theme-unity/noble 24.04.2-0ubuntu1 all
+
+yasat/noble 848-1.2 all
+
+yash/noble 2.55-2 amd64
+
+yaskkserv/noble 1.1.1-3build2 amd64
+
+yasm/noble 1.3.0-4 amd64
+
+yasnippet/noble 0.14.0+git20230912.76e1eee6-1 all
+
+yasr/noble 0.6.9-11 amd64
+
+yasw/noble 0.6-2build3 amd64
+
+yatex/noble 1.82-2 all
+
+yatm/noble 0.9-5 amd64
+
+yavta/noble 0.0+git20220328.c7b5b75-4 amd64
+
+yaws-chat/noble 2.1.1+dfsg-2 all
+
+yaws-doc/noble 2.1.1+dfsg-2 all
+
+yaws-mail/noble 2.1.1+dfsg-2 all
+
+yaws-wiki/noble 2.1.1+dfsg-2 all
+
+yaws-yapp/noble 2.1.1+dfsg-2 all
+
+yaws/noble 2.1.1+dfsg-2 all
+
+yaz-doc/noble 5.34.0-1build4 all
+
+yaz-icu/noble 5.34.0-1build4 amd64
+
+yaz-illclient/noble 5.34.0-1build4 amd64
+
+yaz/noble 5.34.0-1build4 amd64
+
+yazc/noble 0.4.3-1 amd64
+
+yc-el/noble 5.0.0-9 amd64
+
+ycm-cmake-modules/noble 0.13.0-3 all
+
+ycmd/noble 0+20231230+git9e43034+ds-2build4 amd64
+
+ydotool/noble 0.1.8-3build1 amd64
+
+ydotoold/noble 0.1.8-3build1 amd64
+
+ydpdict/noble 1.0.5-1 amd64
+
+yeahconsole/noble 0.3.4-6 amd64
+
+yelp-tools/noble 42.1-2 all
+
+yelp-xsl/noble 42.1-2 all
+
+yelp/noble 42.2-1build2 amd64
+
+yersinia/noble 0.8.2-2.2build2 amd64
+
+yesod/noble 1.6.2.2-2 amd64
+
+yggdrasil/noble-updates,noble-security 0.5.5-2ubuntu0.24.04.2 amd64
+yggdrasil/noble 0.5.5-2 amd64
+
+yi/noble 0.19.0-2 amd64
+
+yiyantang/noble 0.7.0-9 amd64
+
+ykcs11/noble 2.2.0-1.1build2 amd64
+
+ykls/noble-updates,noble-security 1.3.4-2ubuntu0.24.04.2 amd64
+ykls/noble 1.3.4-2build1 amd64
+
+ykush-control/noble 1.3.0+ds-1 amd64
+
+ylva/noble 1.7-2build2 amd64
+
+ymuse/noble-updates,noble-security 0.22-1ubuntu0.24.04.2 amd64
+ymuse/noble 0.22-1build2 amd64
+
+ynew/noble 1.5-1build2 all
+
+yodl-doc/noble 4.03.03-1 all
+
+yodl/noble 4.03.03-1 amd64
+
+yokadi/noble 1.2.0-4 all
+
+yorick-av/noble 0.0.6-1build2 amd64
+
+yorick-cubeview/noble 2.2-2.2 all
+
+yorick-curses/noble 0.1-6build2 amd64
+
+yorick-data/noble 2.2.04+dfsg1-12build3 all
+
+yorick-dev/noble 2.2.04+dfsg1-12build3 amd64
+
+yorick-doc/noble 2.2.04+dfsg1-12build3 all
+
+yorick-gl/noble 1.1+cvs20070922+dfsg-6.1build1 amd64
+
+yorick-gy/noble 0.0.5-2build2 amd64
+
+yorick-gyoto/noble 2.0.2-1.1build3 amd64
+
+yorick-hdf5/noble 0.8.0-8build4 amd64
+
+yorick-imutil/noble 0.5.7-3build1 amd64
+
+yorick-mira/noble 1.1.0+git20170124.3bd1c3~dfsg1-2 all
+
+yorick-ml4/noble 0.6.0-4 amd64
+
+yorick-mpeg/noble 0.1-4 amd64
+
+yorick-mpy-common/noble 2.2.04+dfsg1-12build3 all
+
+yorick-mpy-mpich2/noble 2.2.04+dfsg1-12build3 amd64
+
+yorick-mpy-openmpi/noble 2.2.04+dfsg1-12build3 amd64
+
+yorick-optimpack/noble 1.3.2+dfsg+1.4.0-1build1 amd64
+
+yorick-soy/noble 1.4.0-3build1 amd64
+
+yorick-yeti-fftw/noble 6.4.0-1.1build1 amd64
+
+yorick-yeti-regex/noble 6.4.0-1.1build1 amd64
+
+yorick-yeti-tiff/noble 6.4.0-1.1build1 amd64
+
+yorick-yeti/noble 6.4.0-1.1build1 amd64
+
+yorick-ygsl/noble 1.2.1-1build3 amd64
+
+yorick-ynfft/noble 1.0.3-1build1 amd64
+
+yorick-yutils/noble 1.5.2-2 all
+
+yorick-z/noble 1.2.0+cvs20080115-5.1build2 amd64
+
+yorick/noble 2.2.04+dfsg1-12build3 amd64
+
+yoshimi-data/noble 2.3.2-1build3 all
+
+yoshimi-doc/noble 2.3.2-1build3 all
+
+yoshimi/noble 2.3.2-1build3 amd64
+
+yosys-abc/noble 0.33-5build2 amd64
+
+yosys-dev/noble 0.33-5build2 amd64
+
+yosys-doc/noble 0.33-5build2 all
+
+yosys-plugin-ghdl/noble 0.0~git20230419.5b64ccf-1ubuntu2 amd64
+
+yosys/noble 0.33-5build2 amd64
+
+yotta-doc/noble 0.20.5-5 all
+
+yotta/noble 0.20.5-5 all
+
+youker-assistant/noble 3.0.2.1-0ubuntu5 amd64
+
+youtubedl-gui/noble 3.0-2build2 amd64
+
+yoyo/noble 8.2.0+dfsg1-2 all
+
+yp-tools/noble 4.2.3-4build1 amd64
+
+ypbind-mt/noble 2.7.2-3build1 amd64
+
+ypserv/noble 4.2-2build2 amd64
+
+yq/noble 3.1.0-3 all
+
+yt-dlp/noble-backports 2025.03.21-1~bpo24.04.1 all
+yt-dlp/noble 2024.04.09-1 all
+
+ytcc/noble 2.6.1-1 all
+
+ytfzf/noble 2.6.1-1 all
+
+ytnef-tools/noble 2.1.2-1build1 amd64
+
+ytree/noble 1.99pl1-2.2build2 amd64
+
+yubico-piv-tool/noble 2.2.0-1.1build2 amd64
+
+yubikey-agent/noble-updates,noble-security 0.1.4-2ubuntu0.24.04.2 amd64
+yubikey-agent/noble 0.1.4-2build1 amd64
+
+yubikey-luks/noble 0.5.1+29.g5df2b95-6.2 all
+
+yubikey-manager-qt/noble 1.2.5-1build2 amd64
+
+yubikey-manager/noble 5.2.1-1 all
+
+yubikey-personalization/noble 1.20.0-3build1 amd64
+
+yubioath-desktop/noble 5.1.0-3build2 amd64
+
+yubiserver/noble 0.6-3.2build2 amd64
+
+yudit-common/noble 3.1.0-1 all
+
+yudit-doc/noble 3.1.0-1 all
+
+yudit/noble 3.1.0-1 amd64
+
+yui-compressor/noble 2.4.8-3 all
+
+yuview/noble 2.13-1build2 amd64
+
+yuyo-gtk-theme/noble 0.3build1 all
+
+yydebug/noble 1.1.0-14 all
+
+z3/noble 4.8.12-3.1build1 amd64
+
+z80asm/noble 1.8-2 amd64
+
+z80dasm/noble 1.1.6-1 amd64
+
+z8530-utils2/noble 3.0-1-11build1 amd64
+
+z88-data/noble 13.0.0+dfsg2-6build2 all
+
+z88-doc/noble 13.0.0+dfsg2-6build2 all
+
+z88/noble 13.0.0+dfsg2-6build2 amd64
+
+zam-plugins/noble 4.2+ds-1build1 amd64
+
+zangband-data/noble 1:2.7.5pre1-14build2 all
+
+zangband/noble 1:2.7.5pre1-14build2 amd64
+
+zanshin/noble 23.08.5-0ubuntu3 amd64
+
+zaqar-common/noble 18.0.0-0ubuntu1 all
+
+zaqar-server/noble 18.0.0-0ubuntu1 all
+
+zaqar-tempest-plugin/noble 1.7.0-2 all
+
+zarchive-tools/noble 0.1.2-2 amd64
+
+zatacka/noble 0.1.8-9 amd64
+
+zathura-cb/noble 0.1.10-1build4 amd64
+
+zathura-dev/noble 0.5.4-1build2 amd64
+
+zathura-djvu/noble 0.2.9-1build4 amd64
+
+zathura-pdf-poppler/noble 0.3.2-1build3 amd64
+
+zathura-ps/noble 0.2.7-2build4 amd64
+
+zathura/noble 0.5.4-1build2 amd64
+
+zaz-data/noble 1.0.1-1 all
+
+zaz/noble 1.0.1-1 amd64
+
+zbackup/noble 1.5-2build3 amd64
+
+zbar-tools/noble 0.23.93-4build3 amd64
+
+zbarcam-gtk/noble 0.23.93-4build3 amd64
+
+zbarcam-qt/noble 0.23.93-4build3 amd64
+
+zbd-utils/noble 2.0.4-1.1build1 amd64
+
+zcfan/noble 1.3.0-1build1 amd64
+
+zchunk/noble 1.3.2+ds1-1build2 amd64
+
+zdbsp/noble 1.19+20181027+dfsg.1-3 amd64
+
+zeal/noble 1:0.7.0-3build2 amd64
+
+zec/noble 0.12-5 all
+
+zeek-aux/noble 0.45-1build2 amd64
+
+zegrapher/noble 3.1.1-4build2 amd64
+
+zeitgeist-core/noble 1.0.4-5ubuntu5 amd64
+
+zeitgeist-datahub/noble 1.0.4-5ubuntu5 amd64
+
+zeitgeist/noble 1.0.4-5ubuntu5 all
+
+zemberek-java-demo/noble 2.1.1-9 all
+
+zemberek-server/noble 0.7.1-13 all
+
+zenity-common/noble 4.0.1-1build3 all
+
+zenity/noble 4.0.1-1build3 amd64
+
+zenlisp/noble 2013.11.22-3 amd64
+
+zenmap/noble 7.94+git20230807.3be01efb1+dfsg-3build2 all
+
+zephyr-clients/noble 3.1.2-1.1build1 amd64
+
+zephyr-server-krb5/noble 3.1.2-1.1build1 amd64
+
+zephyr-server/noble 3.1.2-1.1build1 amd64
+
+zeroc-glacier2/noble 3.7.10-2.1build1 amd64
+
+zeroc-ice-all-dev/noble 3.7.10-2.1build1 all
+
+zeroc-ice-all-runtime/noble 3.7.10-2.1build1 all
+
+zeroc-ice-compilers/noble 3.7.10-2.1build1 amd64
+
+zeroc-ice-manual/noble 3.5.0-1build1 all
+
+zeroc-ice-slice/noble 3.7.10-2.1build1 all
+
+zeroc-ice-utils/noble 3.7.10-2.1build1 amd64
+
+zeroc-icebox/noble 3.7.10-2.1build1 amd64
+
+zeroc-icebridge/noble 3.7.10-2.1build1 amd64
+
+zeroc-icegrid/noble 3.7.10-2.1build1 amd64
+
+zeroc-icegridgui/noble 3.7.10-2.1build1 all
+
+zeroc-icepatch2/noble 3.7.10-2.1build1 amd64
+
+zerofree/noble,now 1.1.1-1build5 amd64 [installed,automatic]
+
+zfcp-hbaapi-dev/noble 2.2.0-0ubuntu3 amd64
+
+zfcp-hbaapi-utils/noble 2.2.0-0ubuntu3 amd64
+
+zfp/noble 1.0.1-3.1build1 amd64
+
+zfs-auto-snapshot/noble 1.2.4-2 all
+
+zfs-dkms/noble-updates 2.2.2-0ubuntu9.2 all
+zfs-dkms/noble 2.2.2-0ubuntu9 all
+
+zfs-dracut/noble-updates 2.2.2-0ubuntu9.2 amd64
+zfs-dracut/noble 2.2.2-0ubuntu9 amd64
+
+zfs-fuse/noble 0.7.0-27build2 amd64
+
+zfs-initramfs/noble-updates 2.2.2-0ubuntu9.2 amd64
+zfs-initramfs/noble 2.2.2-0ubuntu9 amd64
+
+zfs-test/noble-updates 2.2.2-0ubuntu9.2 amd64
+zfs-test/noble 2.2.2-0ubuntu9 amd64
+
+zfs-zed/noble-updates 2.2.2-0ubuntu9.2 amd64
+zfs-zed/noble 2.2.2-0ubuntu9 amd64
+
+zfsnap/noble 1.11.1-8.1 all
+
+zfsutils-linux/noble-updates 2.2.2-0ubuntu9.2 amd64
+zfsutils-linux/noble 2.2.2-0ubuntu9 amd64
+
+zgen/noble 0~20150919-4 all
+
+zh-autoconvert/noble 0.3.16-10 amd64
+
+zhcon-data/noble 1:0.2.6-19 all
+
+zhcon/noble 1:0.2.6-19 amd64
+
+zile/noble 2.6.2-2build2 amd64
+
+zim-tools/noble 3.2.0-1ubuntu5 amd64
+
+zim/noble 0.75.2-1 all
+
+zinnia-utils/noble 0.06-8build1 amd64
+
+zint-qt/noble 2.13.0-1build3 amd64
+
+zint/noble 2.13.0-1build3 amd64
+
+zip/noble-updates 3.0-13ubuntu0.2 amd64
+zip/noble 3.0-13build1 amd64
+
+zipalign/noble 1:10.0.0+r36-1ubuntu2 amd64
+
+zipcmp/noble 1.7.3-1.1ubuntu2 amd64
+
+zipmerge/noble 1.7.3-1.1ubuntu2 amd64
+
+zipper.app/noble 1.5-3build4 amd64
+
+ziproxy/noble 3.3.2-7build2 amd64
+
+ziptime/noble 1:10.0.0+r36-1ubuntu2 amd64
+
+ziptool/noble 1.7.3-1.1ubuntu2 amd64
+
+zita-ajbridge/noble 0.8.4-1build2 amd64
+
+zita-alsa-pcmi-utils/noble 0.6.1-1.1build2 amd64
+
+zita-at1/noble 0.6.2-2build3 amd64
+
+zita-bls1/noble 0.3.3-3build2 amd64
+
+zita-dc1/noble 0.3.3-2build2 amd64
+
+zita-dpl1/noble 0.3.3-1build2 amd64
+
+zita-lrx/noble 0.1.2-1build4 amd64
+
+zita-mu1/noble 0.3.3-2build3 amd64
+
+zita-njbridge/noble 0.4.8-1 amd64
+
+zita-resampler/noble 1.11.2-1build1 amd64
+
+zita-rev1/noble 0.2.2-2build3 amd64
+
+zkg/noble 2.14.0-1 all
+
+zktop/noble 1.0.0-4 all
+
+zlib1g-dev/noble-updates,now 1:1.3.dfsg-3.1ubuntu2.1 amd64 [installed,automatic]
+zlib1g-dev/noble 1:1.3.dfsg-3.1ubuntu2 amd64
+
+zlib1g/noble-updates,now 1:1.3.dfsg-3.1ubuntu2.1 amd64 [installed,automatic]
+zlib1g/noble 1:1.3.dfsg-3.1ubuntu2 amd64
+
+zmakebas/noble 1.2b-0.1 amd64
+
+zmap/noble 2.1.1-2.1build2 amd64
+
+zmf2epub/noble 0.9.6-3 amd64
+
+zmf2odg/noble 0.9.6-3 amd64
+
+zmk-doc/noble 0.5.1-2 all
+
+zmk/noble 0.5.1-2 all
+
+znc-backlog/noble 0.20180824+1.9.0-2build3 amd64
+
+znc-dev/noble 1.9.0-2build3 amd64
+
+znc-perl/noble 1.9.0-2build3 amd64
+
+znc-push/noble 1.0.0+git20190521.78d0385+1.9.0-2build3 amd64
+
+znc-python/noble 1.9.0-2build3 amd64
+
+znc-tcl/noble 1.9.0-2build3 amd64
+
+znc/noble 1.9.0-2build3 amd64
+
+znuny/noble 6.5.6-1 all
+
+zoem/noble 21-341-1 amd64
+
+zomg/noble 0.8.2-1 amd64
+
+zonefs-tools/noble 1.6.0-2 amd64
+
+zonemaster-cli/noble 6.0.3-1 all
+
+zoneminder-doc/noble 1.36.33+dfsg1-1build4 all
+
+zoneminder/noble 1.36.33+dfsg1-1build4 amd64
+
+zookeeper-bin/noble 3.9.1-1build2 amd64
+
+zookeeper/noble 3.9.1-1build2 all
+
+zookeeperd/noble 3.9.1-1build2 all
+
+zoom-player/noble 1.1.5~dfsg-6build2 amd64
+
+zopfli/noble 1.0.3-2 amd64
+
+zoph/noble 1.0.1-4 all
+
+zoxide/noble 0.9.3-1 amd64
+
+zpaq/noble 7.15+repack-1 amd64
+
+zplug/noble 2.4.2-2 all
+
+zpspell/noble 0.4.3-5build2 amd64
+
+zram-config/noble 0.8 all
+
+zram-tools/noble 0.3.3.1-1.1 all
+
+zseal/noble 1.1.3-2 amd64
+
+zsh-antidote/noble 1.9.4-1 all
+
+zsh-antigen/noble 2.2.3-5 all
+
+zsh-autosuggestions/noble 0.7.0-1 all
+
+zsh-common/noble 5.9-6ubuntu2 all
+
+zsh-dev/noble 5.9-6ubuntu2 amd64
+
+zsh-doc/noble 5.9-6ubuntu2 all
+
+zsh-static/noble 5.9-6ubuntu2 amd64
+
+zsh-syntax-highlighting/noble 0.7.1-2 all
+
+zsh-theme-powerlevel9k/noble 0.6.7-4 all
+
+zsh/noble 5.9-6ubuntu2 amd64
+
+zsnapd-rcmd/noble 0.8.12-1 all
+
+zsnapd/noble 0.8.12-1 all
+
+zssh/noble 1.5c.debian.1-10build2 amd64
+
+zst/noble 0.4-1 amd64
+
+zstd/noble-updates,now 1.5.5+dfsg2-2build1.1 amd64 [installed,automatic]
+zstd/noble 1.5.5+dfsg2-2build1 amd64
+
+zsync/noble 0.6.2-5build1 amd64
+
+zsys/noble-updates,noble-security 0.5.11.3ubuntu0.24.04.2 amd64
+zsys/noble 0.5.11.3build1 amd64
+
+ztclocalagent/noble 5.0.0.30-0ubuntu3 amd64
+
+ztex-bmp/noble 20120314-2build1 amd64
+
+zulucrypt-cli/noble 6.2.0-1ubuntu3 amd64
+
+zulucrypt-gui/noble 6.2.0-1ubuntu3 amd64
+
+zulumount-cli/noble 6.2.0-1ubuntu3 amd64
+
+zulumount-gui/noble 6.2.0-1ubuntu3 amd64
+
+zulupolkit/noble 6.2.0-1ubuntu3 amd64
+
+zulusafe-cli/noble 6.2.0-1ubuntu3 amd64
+
+zuo/noble 1.9-1 amd64
+
+zurl/noble 1.12.0-1ubuntu2 amd64
+
+zutils/noble 1.13-1ubuntu1 amd64
+
+zutty/noble 0.14.8.20231210+dfsg1-1 amd64
+
+zvbi/noble 0.2.42-2 amd64
+
+zvmcloudconnector-api/noble 2.0.0~b1~git2019062011.4fc9142.really.1.4.1-0ubuntu3 all
+
+zvmcloudconnector-common/noble 2.0.0~b1~git2019062011.4fc9142.really.1.4.1-0ubuntu3 all
+
+zx/noble 7.1.1+~cs6.7.23-3 all
+
+zxing-cpp-tools/noble 2.2.1-3 amd64
+
+zydis-tools/noble 4.0.0-2.1build2 amd64
+
+zynaddsubfx-data/noble 3.0.6-6build3 all
+
+zynaddsubfx-dssi/noble 3.0.6-6build3 amd64
+
+zynaddsubfx-lv2/noble 3.0.6-6build3 amd64
+
+zynaddsubfx-vst/noble 3.0.6-6build3 amd64
+
+zynaddsubfx/noble 3.0.6-6build3 amd64
+
+zypper-common/noble 1.14.68-1build2 all
+
+zypper-doc/noble 1.14.68-1build2 all
+
+zypper/noble 1.14.68-1build2 amd64
+
+zytrax/noble 0+git20201215-1.1build2 amd64
+
+zziplib-bin/noble 0.13.72+dfsg.1-1.2build1 amd64
+
+zzuf/noble 0.15-2build3 amd64
+
+$ sudo apt install nginx
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following package was automatically installed and is no longer required:
+  squashfs-tools
+Use 'sudo apt autoremove' to remove it.
+The following additional packages will be installed:
+  nginx-common
+Suggested packages:
+  fcgiwrap nginx-doc
+The following NEW packages will be installed:
+  nginx nginx-common
+0 upgraded, 2 newly installed, 0 to remove and 151 not upgraded.
+Need to get 551 kB of archives.
+After this operation, 1596 kB of additional disk space will be used.
+Do you want to continue? [Y/n] н
+Abort.
+$ sudo apt install nginx -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following package was automatically installed and is no longer required:
+  squashfs-tools
+Use 'sudo apt autoremove' to remove it.
+The following additional packages will be installed:
+  nginx-common
+Suggested packages:
+  fcgiwrap nginx-doc
+The following NEW packages will be installed:
+  nginx nginx-common
+0 upgraded, 2 newly installed, 0 to remove and 151 not upgraded.
+Need to get 551 kB of archives.
+After this operation, 1596 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 nginx-common all 1.24.0-2ubuntu7.3 [31.2 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 nginx amd64 1.24.0-2ubuntu7.3 [520 kB]
+Fetched 551 kB in 0s (1848 kB/s)
+Preconfiguring packages ...
+Selecting previously unselected package nginx-common.
+(Reading database ... 82829 files and directories currently installed.)
+Preparing to unpack .../nginx-common_1.24.0-2ubuntu7.3_all.deb ...
+Unpacking nginx-common (1.24.0-2ubuntu7.3) ...
+Selecting previously unselected package nginx.
+Preparing to unpack .../nginx_1.24.0-2ubuntu7.3_amd64.deb ...
+Unpacking nginx (1.24.0-2ubuntu7.3) ...
+Setting up nginx (1.24.0-2ubuntu7.3) ...
+Not attempting to start NGINX, port 80 is already in use.
+Setting up nginx-common (1.24.0-2ubuntu7.3) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/nginx.service → /usr/lib/systemd/system/nginx.service.
+Could not execute systemctl:  at /usr/bin/deb-systemd-invoke line 148.
+Processing triggers for ufw (0.36.2-6) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Scanning processes...                                                                                                                                              
+Scanning linux images...                                                                                                                                           
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+sudo apt remove nginx -y
+$ sudo apt autoremove
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following packages will be REMOVED:
+  squashfs-tools
+0 upgraded, 0 newly installed, 1 to remove and 151 not upgraded.
+After this operation, 484 kB disk space will be freed.
+Do you want to continue? [Y/n] н
+Abort.
+$ sudo apt remove nginx -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following package was automatically installed and is no longer required:
+  squashfs-tools
+Use 'sudo apt autoremove' to remove it.
+The following packages will be REMOVED:
+  nginx nginx-common
+0 upgraded, 0 newly installed, 2 to remove and 151 not upgraded.
+After this operation, 1596 kB disk space will be freed.
+(Reading database ... 82877 files and directories currently installed.)
+Removing nginx-common (1.24.0-2ubuntu7.3) ...
+Removing nginx (1.24.0-2ubuntu7.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+$ sudo apt autoremove
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following packages will be REMOVED:
+  squashfs-tools
+0 upgraded, 0 newly installed, 1 to remove and 151 not upgraded.
+After this operation, 484 kB disk space will be freed.
+Do you want to continue? [Y/n] y
+Abort.
+$ sudo apt update -y
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+151 packages can be upgraded. Run 'apt list --upgradable' to see them.
+$ sudo systemctl list-units -t service
+  UNIT                                           LOAD      ACTIVE SUB     DESCRIPTION                                                                  
+  apache-htcacheclean.service                    loaded    active running Disk Cache Cleaning Daemon for Apache HTTP Server
+  apache2.service                                loaded    active running The Apache HTTP Server
+  apparmor.service                               loaded    active exited  Load AppArmor profiles
+  apport.service                                 loaded    active exited  automatic crash report generation
+  blk-availability.service                       loaded    active exited  Availability of block devices
+  console-setup.service                          loaded    active exited  Set console font and keymap
+  containerd.service                             loaded    active running containerd container runtime
+  cron.service                                   loaded    active running Regular background program processing daemon
+  dbus.service                                   loaded    active running D-Bus System Message Bus
+  docker.service                                 loaded    active running Docker Application Container Engine
+  finalrd.service                                loaded    active exited  Create final runtime dir for shutdown pivot root
+  fwupd.service                                  loaded    active running Firmware update daemon
+  getty@tty1.service                             loaded    active running Getty on tty1
+  keyboard-setup.service                         loaded    active exited  Set the console keyboard layout
+  kmod-static-nodes.service                      loaded    active exited  Create List of Static Device Nodes
+  lvm2-monitor.service                           loaded    active exited  Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling
+  ModemManager.service                           loaded    active running Modem Manager
+  multipathd.service                             loaded    active running Device-Mapper Multipath Device Controller
+● nginx.service                                  not-found failed failed  nginx.service
+  packagekit.service                             loaded    active running PackageKit Daemon
+  plymouth-quit-wait.service                     loaded    active exited  Hold until boot process finishes up
+  plymouth-quit.service                          loaded    active exited  Terminate Plymouth Boot Screen
+  plymouth-read-write.service                    loaded    active exited  Tell Plymouth To Write Out Runtime Data
+  podman-restart.service                         loaded    active exited  Podman Start All Containers With Restart Policy Set To Always
+  polkit.service                                 loaded    active running Authorization Manager
+  rsyslog.service                                loaded    active running System Logging Service
+  serial-getty@ttyS0.service                     loaded    active running Serial Getty on ttyS0
+  setvtrgb.service                               loaded    active exited  Set console scheme
+  ssh.service                                    loaded    active running OpenBSD Secure Shell server
+  sysstat.service                                loaded    active exited  Resets System Activity Logs
+  systemd-binfmt.service                         loaded    active exited  Set Up Additional Binary Formats
+  systemd-fsck-root.service                      loaded    active exited  File System Check on Root Device
+  systemd-fsck@dev-disk-by\x2dlabel-BOOT.service loaded    active exited  File System Check on /dev/disk/by-label/BOOT
+  systemd-fsck@dev-disk-by\x2dlabel-UEFI.service loaded    active exited  File System Check on /dev/disk/by-label/UEFI
+  systemd-journal-flush.service                  loaded    active exited  Flush Journal to Persistent Storage
+  systemd-journald.service                       loaded    active running Journal Service
+  systemd-logind.service                         loaded    active running User Login Management
+  systemd-modules-load.service                   loaded    active exited  Load Kernel Modules
+  systemd-networkd-wait-online.service           loaded    active exited  Wait for Network to be Configured
+  systemd-networkd.service                       loaded    active running Network Configuration
+  systemd-random-seed.service                    loaded    active exited  Load/Save OS Random Seed
+  systemd-remount-fs.service                     loaded    active exited  Remount Root and Kernel File Systems
+  systemd-resolved.service                       loaded    active running Network Name Resolution
+  systemd-sysctl.service                         loaded    active exited  Apply Kernel Variables
+  systemd-timesyncd.service                      loaded    active running Network Time Synchronization
+  systemd-tmpfiles-setup-dev-early.service       loaded    active exited  Create Static Device Nodes in /dev gracefully
+  systemd-tmpfiles-setup-dev.service             loaded    active exited  Create Static Device Nodes in /dev
+  systemd-tmpfiles-setup.service                 loaded    active exited  Create Volatile Files and Directories
+  systemd-udev-trigger.service                   loaded    active exited  Coldplug All udev Devices
+  systemd-udevd.service                          loaded    active running Rule-based Manager for Device Events and Files
+  systemd-update-utmp.service                    loaded    active exited  Record System Boot/Shutdown in UTMP
+  systemd-user-sessions.service                  loaded    active exited  Permit User Sessions
+  ubuntu-fan.service                             loaded    active exited  Ubuntu FAN network setup
+  udisks2.service                                loaded    active running Disk Manager
+  ufw.service                                    loaded    active exited  Uncomplicated firewall
+  unattended-upgrades.service                    loaded    active running Unattended Upgrades Shutdown
+  user-runtime-dir@1001.service                  loaded    active exited  User Runtime Directory /run/user/1001
+  user@1001.service                              loaded    active running User Manager for UID 1001
+
+Legend: LOAD   → Reflects whether the unit definition was properly loaded.
+        ACTIVE → The high-level unit activation state, i.e. generalization of SUB.
+        SUB    → The low-level unit activation state, values depend on unit type.
+
+58 loaded units listed. Pass --all to see loaded but inactive units, too.
+To show all installed unit files use 'systemctl list-unit-files'.
+$ sudo systemctl status apache2
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/usr/lib/systemd/system/apache2.service; enabled; preset: enabled)
+     Active: active (running) since Wed 2025-04-16 19:21:03 UTC; 2min 46s ago
+       Docs: https://httpd.apache.org/docs/2.4/
+   Main PID: 2462 (apache2)
+      Tasks: 55 (limit: 2320)
+     Memory: 5.3M (peak: 5.5M)
+        CPU: 48ms
+     CGroup: /system.slice/apache2.service
+             ├─2462 /usr/sbin/apache2 -k start
+             ├─2464 /usr/sbin/apache2 -k start
+             └─2465 /usr/sbin/apache2 -k start
+
+Apr 16 19:21:03 ubuntu systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Apr 16 19:21:03 ubuntu apachectl[2456]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerN>
+Apr 16 19:21:03 ubuntu systemd[1]: Started apache2.service - The Apache HTTP Server.
+$ sudo systemctl start apache2
+$ sudo systemctl status apache2
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/usr/lib/systemd/system/apache2.service; enabled; preset: enabled)
+     Active: active (running) since Wed 2025-04-16 19:21:03 UTC; 2min 52s ago
+       Docs: https://httpd.apache.org/docs/2.4/
+   Main PID: 2462 (apache2)
+      Tasks: 55 (limit: 2320)
+     Memory: 5.3M (peak: 5.5M)
+        CPU: 48ms
+     CGroup: /system.slice/apache2.service
+             ├─2462 /usr/sbin/apache2 -k start
+             ├─2464 /usr/sbin/apache2 -k start
+             └─2465 /usr/sbin/apache2 -k start
+
+Apr 16 19:21:03 ubuntu systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Apr 16 19:21:03 ubuntu apachectl[2456]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerN>
+Apr 16 19:21:03 ubuntu systemd[1]: Started apache2.service - The Apache HTTP Server.
+$ sudo systemctl stop apache2
+$ sudo systemctl status apache2
+○ apache2.service - The Apache HTTP Server
+     Loaded: loaded (/usr/lib/systemd/system/apache2.service; enabled; preset: enabled)
+     Active: inactive (dead) since Wed 2025-04-16 19:23:58 UTC; 1s ago
+   Duration: 2min 54.978s
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 3951 ExecStop=/usr/sbin/apachectl graceful-stop (code=exited, status=0/SUCCESS)
+   Main PID: 2462 (code=exited, status=0/SUCCESS)
+        CPU: 67ms
+
+Apr 16 19:21:03 ubuntu systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Apr 16 19:21:03 ubuntu apachectl[2456]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerN>
+Apr 16 19:21:03 ubuntu systemd[1]: Started apache2.service - The Apache HTTP Server.
+Apr 16 19:23:58 ubuntu systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Apr 16 19:23:58 ubuntu apachectl[3953]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerN>
+Apr 16 19:23:58 ubuntu systemd[1]: apache2.service: Deactivated successfully.
+Apr 16 19:23:58 ubuntu systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+$ sudo systemctl enable apache2
+Synchronizing state of apache2.service with SysV service script with /usr/lib/systemd/systemd-sysv-install.
+Executing: /usr/lib/systemd/systemd-sysv-install enable apache2
+$ sudo systemctl status apache2
+○ apache2.service - The Apache HTTP Server
+     Loaded: loaded (/usr/lib/systemd/system/apache2.service; enabled; preset: enabled)
+     Active: inactive (dead) since Wed 2025-04-16 19:23:58 UTC; 5s ago
+   Duration: 2min 54.978s
+       Docs: https://httpd.apache.org/docs/2.4/
+   Main PID: 2462 (code=exited, status=0/SUCCESS)
+        CPU: 67ms
+
+Apr 16 19:21:03 ubuntu systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Apr 16 19:21:03 ubuntu apachectl[2456]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerN>
+Apr 16 19:21:03 ubuntu systemd[1]: Started apache2.service - The Apache HTTP Server.
+Apr 16 19:23:58 ubuntu systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Apr 16 19:23:58 ubuntu apachectl[3953]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerN>
+Apr 16 19:23:58 ubuntu systemd[1]: apache2.service: Deactivated successfully.
+Apr 16 19:23:58 ubuntu systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+$ sudo systemctl disable apache2
+Synchronizing state of apache2.service with SysV service script with /usr/lib/systemd/systemd-sysv-install.
+Executing: /usr/lib/systemd/systemd-sysv-install disable apache2
+Removed "/etc/systemd/system/multi-user.target.wants/apache2.service".
+$ touch sample.txt 
+ls -l sample.txt
+$ -rw-rw-r-- 1 johndoe johndoe 0 Apr 16 19:24 sample.txt
+$ chown johndoe sample.txt 
+ls -l sample.txt
+$ -rw-rw-r-- 1 johndoe johndoe 0 Apr 16 19:24 sample.txt
+$ groupadd devops 
+chgrp devops sample.txt 
+ls -l sample.txt
+groupadd: Permission denied.
+groupadd: cannot lock /etc/group; try again later.
+$ chgrp: invalid group: ‘devops’
+$ -rw-rw-r-- 1 johndoe johndoe 0 Apr 16 19:24 sample.txt
+$ chown steve:admin sample.txt 
+ls -l sample.txt 
+chown root:root sample.txt 
+ls -l sample.txt
+chown: changing ownership of 'sample.txt': Operation not permitted
+$ -rw-rw-r-- 1 johndoe johndoe 0 Apr 16 19:24 sample.txt
+$ chown: changing ownership of 'sample.txt': Operation not permitted
+$ -rw-rw-r-- 1 johndoe johndoe 0 Apr 16 19:24 sample.txt
+$ chown -R johndoe:admin *
+chown: changing ownership of 'sample.txt': Operation not permitted
+$ touch sample2.txt 
+ls -l sample2.txt 
+chmod ugo+rwx sample2.txt 
+ls -l sample2.txt
+$ -rw-rw-r-- 1 johndoe johndoe 0 Apr 16 19:24 sample2.txt
+$ $ -rwxrwxrwx 1 johndoe johndoe 0 Apr 16 19:24 sample2.txt
+$ chmod 755 sample2.txt
+ls -l sample2.txt
+$ -rwxr-xr-x 1 johndoe johndoe 0 Apr 16 19:24 sample2.txt
+$ 
